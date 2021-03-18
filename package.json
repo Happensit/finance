@@ -2,6 +2,7 @@
   "name": "beefy-app",
   "version": "1.1.0",
   "repository": "beefyfinance/beefy-app",
+  "homepage": "https://happensit.github.io/my-app",
   "license": "MIT",
   "private": true,
   "type": "module",
@@ -21,6 +22,7 @@
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
     "eth-multicall": "^1.3.13",
+    "gh-pages": "^3.1.0",
     "history": "^5.0.0",
     "i18next": "^19.8.2",
     "i18next-browser-languagedetector": "^6.0.1",
@@ -48,7 +50,9 @@
     "build": "react-scripts build",
     "validate": "node ./scripts/validatePools.js",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
