@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/finance/static/css/main.52e79eb1.chunk.css",
-    "main.js": "/finance/static/js/main.8cf242dd.chunk.js",
-    "main.js.map": "/finance/static/js/main.8cf242dd.chunk.js.map",
+    "main.js": "/finance/static/js/main.c2523d03.chunk.js",
+    "main.js.map": "/finance/static/js/main.c2523d03.chunk.js.map",
     "runtime-main.js": "/finance/static/js/runtime-main.9ceb626f.js",
     "runtime-main.js.map": "/finance/static/js/runtime-main.9ceb626f.js.map",
-    "static/js/2.2a40e063.chunk.js": "/finance/static/js/2.2a40e063.chunk.js",
-    "static/js/2.2a40e063.chunk.js.map": "/finance/static/js/2.2a40e063.chunk.js.map",
+    "static/js/2.9cd90404.chunk.js": "/finance/static/js/2.9cd90404.chunk.js",
+    "static/js/2.9cd90404.chunk.js.map": "/finance/static/js/2.9cd90404.chunk.js.map",
     "index.html": "/finance/index.html",
-    "precache-manifest.2ba35726b5a4b71089b5c00ceaaee827.js": "/finance/precache-manifest.2ba35726b5a4b71089b5c00ceaaee827.js",
+    "precache-manifest.afa88f89c0ad8223dd063e654779d139.js": "/finance/precache-manifest.afa88f89c0ad8223dd063e654779d139.js",
     "service-worker.js": "/finance/service-worker.js",
     "static/css/main.52e79eb1.chunk.css.map": "/finance/static/css/main.52e79eb1.chunk.css.map",
-    "static/js/2.2a40e063.chunk.js.LICENSE.txt": "/finance/static/js/2.2a40e063.chunk.js.LICENSE.txt",
+    "static/js/2.9cd90404.chunk.js.LICENSE.txt": "/finance/static/js/2.9cd90404.chunk.js.LICENSE.txt",
     "static/media/AAVE-USDT.svg": "/finance/static/media/AAVE-USDT.15c81de5.svg",
     "static/media/ADA-BNB.svg": "/finance/static/media/ADA-BNB.44c59479.svg",
     "static/media/ADA.svg": "/finance/static/media/ADA.24157d4e.svg",
@@ -233,8 +233,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9ceb626f.js",
-    "static/js/2.2a40e063.chunk.js",
+    "static/js/2.9cd90404.chunk.js",
     "static/css/main.52e79eb1.chunk.css",
-    "static/js/main.8cf242dd.chunk.js"
+    "static/js/main.c2523d03.chunk.js"
   ]
 }
