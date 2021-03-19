@@ -71,7 +71,7 @@ export default function App({ children }) {
       <ThemeProvider theme={theme}>
         <SnackbarProvider>
           <NetworksProvider>
-            <NetworksModal />
+            
             <div
               className={classes.page}
               style={{ backgroundColor: theme.palette.background.default }}
@@ -98,7 +98,7 @@ export default function App({ children }) {
               </div>
 
               <Footer />
-              <Pastures />
+              {/*<Pastures />*/}
             </div>
           </NetworksProvider>
         </SnackbarProvider>

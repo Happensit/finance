@@ -1,6 +1,6 @@
 import { HomePage } from './';
 
 export default {
-  path: '',
+  path: '/finance',
   childRoutes: [{ path: 'index', component: HomePage, isIndex: true }],
 };

@@ -30,21 +30,22 @@ const Header = ({ links, isNightMode, setNightMode }) => {
       <Toolbar className={classes.container}>
         <Button href="/" className={classes.title}>
           <Hidden xsDown>
-            <img
+            {/*<img
               alt="BIFI"
               src={require(`images/single-assets/BIFI.svg`)}
               height={'40px'}
               className={classes.logo}
-            />
-            beefy.finance
+            />*/}
+            Digital finance
           </Hidden>
           <Hidden smUp>
-            <img
+            {/*<img
               alt="BIFI"
               src={require(`images/single-assets/BIFI.svg`)}
               height={'35px'}
               className={classes.logo}
-            />
+            />*/}
+            Digital finance
           </Hidden>
         </Button>
 

@@ -2,7 +2,7 @@
   "name": "beefy-app",
   "version": "1.1.0",
   "repository": "beefyfinance/beefy-app",
-  "homepage": "https://happensit.github.io/my-app",
+  "homepage": "https://happensit.github.io/finance/",
   "license": "MIT",
   "private": true,
   "type": "module",
@@ -48,9 +48,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "update-pools": "node ./scripts/updatePools.js",
     "validate": "node ./scripts/validatePools.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "clean": "gh-pages-clean",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
