@@ -13,6 +13,7 @@ const styles = theme => ({
     marginBottom: '2rem',
     fontWeight: 900,
     color: theme.palette.text.primary,
+    textAlign: 'center',
   },
 });
 
