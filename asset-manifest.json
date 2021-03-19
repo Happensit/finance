@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/finance/static/css/main.52e79eb1.chunk.css",
-    "main.js": "/finance/static/js/main.22a160cb.chunk.js",
-    "main.js.map": "/finance/static/js/main.22a160cb.chunk.js.map",
+    "main.js": "/finance/static/js/main.c7b14fb0.chunk.js",
+    "main.js.map": "/finance/static/js/main.c7b14fb0.chunk.js.map",
     "runtime-main.js": "/finance/static/js/runtime-main.9ceb626f.js",
     "runtime-main.js.map": "/finance/static/js/runtime-main.9ceb626f.js.map",
     "static/js/2.9cd90404.chunk.js": "/finance/static/js/2.9cd90404.chunk.js",
     "static/js/2.9cd90404.chunk.js.map": "/finance/static/js/2.9cd90404.chunk.js.map",
     "index.html": "/finance/index.html",
-    "precache-manifest.4ed0f5747db726da7edb30a5b0396289.js": "/finance/precache-manifest.4ed0f5747db726da7edb30a5b0396289.js",
+    "precache-manifest.04c68f225cd84d49f427c269c5c549e9.js": "/finance/precache-manifest.04c68f225cd84d49f427c269c5c549e9.js",
     "service-worker.js": "/finance/service-worker.js",
     "static/css/main.52e79eb1.chunk.css.map": "/finance/static/css/main.52e79eb1.chunk.css.map",
     "static/js/2.9cd90404.chunk.js.LICENSE.txt": "/finance/static/js/2.9cd90404.chunk.js.LICENSE.txt",
@@ -235,6 +235,6 @@
     "static/js/runtime-main.9ceb626f.js",
     "static/js/2.9cd90404.chunk.js",
     "static/css/main.52e79eb1.chunk.css",
-    "static/js/main.22a160cb.chunk.js"
+    "static/js/main.c7b14fb0.chunk.js"
   ]
 }
