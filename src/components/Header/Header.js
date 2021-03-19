@@ -36,7 +36,7 @@ const Header = ({ links, isNightMode, setNightMode }) => {
               height={'40px'}
               className={classes.logo}
             />*/}
-            Digital finance
+            Earn capital
           </Hidden>
           <Hidden smUp>
             {/*<img
@@ -45,7 +45,7 @@ const Header = ({ links, isNightMode, setNightMode }) => {
               height={'35px'}
               className={classes.logo}
             />*/}
-            Digital finance
+            Earn capital
           </Hidden>
         </Button>
 
