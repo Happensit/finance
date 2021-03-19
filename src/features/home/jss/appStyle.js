@@ -2,7 +2,7 @@ import { container } from 'assets/jss/material-kit-pro-react.js';
 
 const appStyle = theme => ({
   page: {
-    backgroundColor: '#fbf9f6',
+    backgroundColor: '#fff',
     minHeight: '100vh',
     position: 'relative',
     overflow: 'hidden',
